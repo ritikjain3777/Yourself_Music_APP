@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "288770846083",
+    "project_id": "yourself-ec711",
+    "storage_bucket": "yourself-ec711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288770846083:android:ef7fa3ee3d315a886a5ab6",
+        "android_client_info": {
+          "package_name": "com.example.yourselfmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288770846083-slcaefoimvb7fv83ge7iqp8509t9p6e5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yourselfmusic",
+            "certificate_hash": "fc1ad31316a3730c9241279caf36bff4c2e11e3d"
+          }
+        },
+        {
+          "client_id": "288770846083-969f8fl0s64ulbn41q84831nr09ejt9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPKhiRuywhGD65LyY4slUHjpra45C_pNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288770846083-969f8fl0s64ulbn41q84831nr09ejt9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
